@@ -1,0 +1,7 @@
+{
+  "name": "Image Data Management",
+  "short": "Data management",
+  "menu": [
+    { "label": "Guide", "href": "./" }
+  ]
+}
